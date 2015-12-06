@@ -1,8 +1,12 @@
 {
-  "name": "mini-todo-flux-es6",
+  "name": "Flux-TodoList-ES6",
   "version": "1.0.0",
   "description": "Minit todo application using React, Flux and es6",
   "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/m-sureshraj/Flux-TodoList-ES6"
+  },
   "scripts": {
     "build": "webpack && webpack-dev-server --port 3000"
   },
