@@ -7,7 +7,7 @@
     "build": "webpack && webpack-dev-server --port 3000"
   },
   "author": "'SJ' <'m.s.suresh100@gmail.com'>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "events": "^1.1.0",
     "flux": "^2.1.1",
