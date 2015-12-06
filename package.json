@@ -2,7 +2,7 @@
   "name": "mini-todo-flux-es6",
   "version": "1.0.0",
   "description": "Minit todo application using React, Flux and es6",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "build": "webpack && webpack-dev-server --port 3000"
   },
