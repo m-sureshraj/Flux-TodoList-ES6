@@ -4,7 +4,7 @@
   "description": "Minit todo application using React, Flux and es6",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack && webpack-dev-server --port 3000"
   },
   "author": "'SJ' <'m.s.suresh100@gmail.com'>",
   "license": "ISC",

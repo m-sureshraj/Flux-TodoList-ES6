@@ -1,0 +1,31 @@
+{
+	"ecmaFeatures": {                
+    	"jsx": true,
+    	"modules": true,
+    },
+
+	"env": {
+    	"browser": true,
+    	"es6": true
+    },
+
+    "rules": {
+    	"no-extra-semi": 2,
+    	"semi": 2,
+    	"quotes": [2, "single"],
+    	"no-use-before-define": 2,
+
+    	//jsStyle
+    	"comma-spacing": 1,
+    	"new-cap": 1,
+    	//"no-trailing-spaces": 1,
+    	"space-infix-ops": 1,
+    	"camelcase": 1,
+    	 "key-spacing": 1,
+    	 "space-after-keywords": 1,
+         
+
+    	//BestPractice
+    	"eqeqeq": 2,
+    }
+}
