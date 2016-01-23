@@ -10,6 +10,7 @@ This is es6 version of [tylermcginnis/Flux-Todolist](https://github.com/tylermcg
 Clone the project and get it running:
 
 ```
+cd Flux-TodoList-ES6
 npm install
 npm run build
 ```
