@@ -2,7 +2,6 @@
 import AppConstants from '../constants/app-constants';
 import AppDispatcher from '../dispatcher/app-dispatcher';
 import { EventEmitter } from 'events';
-import objAssign from 'react/lib/Object.assign';
 
 const CHANGE_EVENT = 'change';
 

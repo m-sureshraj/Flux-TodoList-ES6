@@ -36,7 +36,7 @@ export default class List extends React.Component {
 					<span
 						className='glyphicon glyphicon-remove'
 						style={styles.removeItem}
-						onClick={this.props.remove}>
+						onClick={this.props.remove.bind(null, index)}>
 					</span>
 					<span style={styles.todoItem}>{item}</span>
 				</li>

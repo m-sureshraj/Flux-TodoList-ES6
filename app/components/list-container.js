@@ -1,6 +1,5 @@
 'use strict';
 import React from 'react';
-import ReactDOM from 'react-dom';
 import AppActions from '../actions/app-actions';
 import AppStores from '../stores/app-stores';
 import AddItem from '../components/add-item';
